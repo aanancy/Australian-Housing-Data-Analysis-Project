@@ -84,21 +84,20 @@ More bedrooms generally led to higher prices, but not always linearly. **Burwood
 
 ---
 
-## 🚀 Getting Started
+## 📘 How to Use
 
-1. Browse the Excel dashboards in this repo.
-2. Download and open them in **Microsoft Excel** or **Google Sheets**.
-3. Use the slicers and filters to explore insights by suburb, price, or time period.
-
----
-
-## 🤝 Contribution
-
-Got ideas for new dashboards or data angles? Fork this repo, submit a pull request, or open an issue.
-
-We welcome contributions from data enthusiasts, Excel lovers, and housing market analysts alike!
+1. Download the spreadsheet and open it in **Microsoft Excel** or **Google Sheets**.
+2. Explore the examples, solve challenges, and learn by doing!  
 
 ---
 
+## 🤝 Contributions
+
+Have ideas or want to collaborate?  
+Feel free to **fork this repo**, submit a **pull request**, or open an **issue** to improve and expand these tools! 🚀
+
+---
+
+🔹 **Stay tuned — more Excel projects, dashboards, and advanced challenge sets coming soon!**  
 Made with 💙 by **Anansha Kc**
 
